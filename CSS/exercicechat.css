@@ -1,7 +1,7 @@
 @import url(//fonts.googleapis.com/css?family=Shadows+Into+Light);
 html,body{
     background-color: #273978;
-    margin background-color:  
+    color: white;
 }
 h1,h2{
     font-family: "Shadows Into Light";
@@ -9,3 +9,4 @@ h1,h2{
     font-style: normal;
     text-align: center;
     }
+    
